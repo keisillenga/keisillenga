@@ -3,5 +3,12 @@
 <img src="https://readme-typeing-svg.herokuapp.com/?
 font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=4000&lines=Hi+There!;+I`m+Keisi+Llenga;" />
 </h1>
+<h2 align="center">Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=github,python,javascript,html,css,mysql,java" /></br>
+</a>
+</div>
 
 
