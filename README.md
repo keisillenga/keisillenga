@@ -1,7 +1,7 @@
 <img align ="right" src="https://visitor-badge.laobi.icu/badge?page_id=keisillenga" alt="Visitors" />
 <h1 align="center">
 <img src="https://readme-typeing-svg.demolab.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=4000&lines=Hi+There!;+I`m+Keisi+Llenga;" alt="Typing SVG" />
+font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=4000&lines=Hi+There!;+I`m+Keisi+Llenga;" />
 </h1>
 <h2 align="center">Languages-Frameworks-Tools </h2>
 <br/>
