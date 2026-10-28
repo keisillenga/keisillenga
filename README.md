@@ -12,6 +12,10 @@ font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=40
 </div>
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/keisillenga/keisillenga/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
+
+</div>
+
 
 
 
