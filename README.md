@@ -11,10 +11,7 @@ font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=40
 </a>
 </div>
 <div align="center">
-<h2>My Contribution </h2>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/keisillenga/keisillenga/output/github-contribution-grid-snake.svg" />
-</div>
+
 
 
 
