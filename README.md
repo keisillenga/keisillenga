@@ -16,6 +16,9 @@ font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=40
 
 </div>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=keisillenga&theme=tokyo-night&hide_border=true)
+
+
 
 
 
