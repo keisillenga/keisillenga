@@ -28,6 +28,18 @@ font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=40
 <img src="https://raw.githubusercontent.com/keisillenga/keisillenga/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
 
 
+<div align="center">
+
+## ☾ The Secret Library ☽
+
+🕯️ Currently Learning: Linux 
+
+🗝️ Current Focus: Building Projects
+
+🌙 Current Mood: Learning something new
+
+</div>
+
 † ───────────── 🕸 ───────────── †
 
 *"keep learning. keep creating."*
