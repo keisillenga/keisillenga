@@ -52,4 +52,3 @@ font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=40
 
 
 
-
