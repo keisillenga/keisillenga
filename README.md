@@ -1,8 +1,11 @@
 # 𝔚𝔢𝔩𝔠𝔬𝔪𝔢, 𝔰𝔱𝔯𝔞𝔫𝔤𝔢𝔯 🦇
 
+
 *Computer Science student learning, building, and exploring.*
 
+
 † ───────── ⋆｡°✩°｡⋆ ───────── †
+
 ## 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
 
 - 🕯️ Computer Science student
