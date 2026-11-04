@@ -36,8 +36,11 @@ font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=40
 ## ☾ The Secret Library ☽
 
 🕯️ Currently Learning: Linux 
-
-🗝️ Current Focus: Building Projects
+                                                      <div align="center">
+                                                       <img src="YOUR_IMAGE_URL" width="150">
+                                                       </div>
+                                                       
+ 🗝️ Current Focus: Building Projects
 
 🌙 Current Mood: Learning something new
 
