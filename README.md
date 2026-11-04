@@ -29,7 +29,7 @@ font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=40
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/keisillenga/keisillenga/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
-
+<div align = "center">
 
 
 ## ☾ The Secret Library ☽
@@ -42,9 +42,9 @@ font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=40
 
 </div>
 
-† ───────────── 🕸 ───────────── †
+  † ───────────── 🕸 ───────────── †
 
-*"keep learning. keep creating."*
+  *"keep learning. keep creating."*
 
 </div>
 
