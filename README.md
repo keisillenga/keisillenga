@@ -33,12 +33,13 @@ font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=40
 
 <div align="center">
 
+<div align="center">
+  <img src="download (6).jpg" width="150">
+</div>
+
 ## ☾ The Secret Library ☽
 
 🕯️ Currently Learning: Linux 
-                                                      <div align="center">
-                                                       <img src="YOUR_IMAGE_URL" width="150">
-                                                       </div>
                                                        
  🗝️ Current Focus: Building Projects
 
