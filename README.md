@@ -34,11 +34,11 @@ font=Righteous&size=35&center=true&vCenter=true&width=5000&height=70&duration=40
 
 ## ☾ The Secret Library ☽
 
-🕯️ Currently Learning: Linux 
+ Currently Learning: Linux 
                                                        
- 🗝️ Current Focus: Building Projects
+ Current Focus: Building Projects
 
-🌙 Current Mood: Learning something new
+ Current Mood: Learning something new
 
 </div>
 
